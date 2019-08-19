@@ -1,0 +1,3 @@
+In the following help document, you will find a list of known breaking changes which were introduced in the latest major release. You will also get help on the changes you need to do to your code to make it compile again against the latest version of the Business Central System Application and Base Application:
+
+[List of breaking changes](https://github.com/microsoft/ALAppExtensions/blob/master/BREAKINGCHANGES.md)
