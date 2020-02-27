@@ -1,5 +1,3 @@
-## _The page is under development. Stay tuned and visit it more often._
-
 ### Disclaimer: There are unofficial guidelines and might change over time.
 
 For documentation hints, have a look at [XML Documentation Comments](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/xmldoc/recommended-tags-for-documentation-comments).
