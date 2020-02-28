@@ -1,4 +1,4 @@
-### Disclaimer: These guidelines are in under development and might change over time.
+### Disclaimer: These guidelines are in development and might change over time.
 
 For documentation hints, have a look at [XML Documentation Comments](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/xmldoc/recommended-tags-for-documentation-comments).
 
@@ -25,7 +25,7 @@ Codeunit 42 "My awesome codeunit"
 }
 ```
 ----
-The AL documentation guideline follow closely those of the C# documentation. However, there are some minor differences. So keep reading!
+The AL documentation guidelines are similar to the C# documentation. However, there are some minor differences so keep reading.
 
 
 # Supported tags
